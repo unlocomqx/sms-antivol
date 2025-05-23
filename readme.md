@@ -9,3 +9,8 @@ The app is still in the test phase. You can join the test group on Google groups
 Please send me your email on prestalife.solutions@gmail.com
 
 https://play.google.com/apps/testing/com.sms_tracker.app
+
+## Screenshots
+
+<img src="./images/scr1.png">
+<img src="./images/scr2.png">
