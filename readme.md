@@ -12,5 +12,5 @@ https://play.google.com/apps/testing/com.sms_tracker.app
 
 ## Screenshots
 
-<img src="./images/scr1.png">
-<img src="./images/scr2.png">
+<img src="./images/scr1.png" style="width: 300px">
+<img src="./images/scr2.png" style="width: 300px">
